@@ -2,9 +2,9 @@
 
 Платформа: Monogame
 
-Технологии: MVC
+Технологии: MVC C#
 
-Язык: C#
+Язык: Русский
 
 Жанры: Top-Down, Shooter, RogueLike?
 
